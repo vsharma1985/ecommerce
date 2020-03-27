@@ -10,7 +10,7 @@ import javax.persistence.Table;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
-@Table(name="B2C_PRDCT_CTGR")
+@Table(name="XYZ_PRDCT_CTGR")
 public class ProductCategory {
 	@Id
 	private Integer id;
